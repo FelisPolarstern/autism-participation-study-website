@@ -1,5 +1,5 @@
 <script setup>
-
+import "@/assets/textcomponents.css"
 </script>
 
 <template>
