@@ -17,7 +17,6 @@ export const texts = {
     eng:{
         section1H:  "Hello!",
         section1:   "We are a research team of four people and aim to investigate the role of the human factor in software development. In this study, we specifically focus on researching autism in the development process. Our team consists of Prof. Dr. Dipl.-Psych. Janet Siegmund, Prof. Dr. Sven Apel, Prof. Dr. Isabella Graßl, and Nadja/Felis Just. Your perspective is central to this research. Through direct exchange, we aim to jointly develop an understanding of the working situation of autistic developers that is based on their own voices and can serve as a foundation for meaningful change. This multi-stage process begins with interviews with autistic developers.",
-        section1Img: "",
         section2H:  "Content and procedure",
         section2:   "In the interview, we would like to talk about topics that you consider important in relation to your work in software development. In addition, we would like to ask you some questions in which we are particularly interested in your personal perspective. For the interview, we ask you to complete a questionnaire in advance. The interview will be structured such that we first discuss the topics covered in the questionnaire. You are also very welcome to raise your own topics that you consider important for software development. Our goal is to understand which strengths you contribute to the development process and which challenges you encounter. Afterwards, we would like to explore your views on the tools and methods used and learn how you generally perceive and plan the software development process.",
         section3H:  "Technology used and data protection",
@@ -29,4 +28,13 @@ export const texts = {
         section6H:  "Contact",
         section6:   "Do you have any questions about the interview, the situation, or the procedure? We look forward to hearing from you."
     }
+}
+//Vll wir über uns mit Bildern und Infos?
+
+const images = {
+    section1Img:"/src/assets/img/S1MiniMe.png",
+    section2Img:"/src/assets/img/S2Idee.png",
+    section3Img:"/src/assets/img/S3Programming.png",
+    section4Img:"/src/assets/img/S4bubbleicons.png",
+    section5Img:"/src/assets/img/S4bubbleicons.png",
 }
