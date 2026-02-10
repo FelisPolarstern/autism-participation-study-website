@@ -1,19 +1,19 @@
 @import './base.css';
 @font-face {
   font-family: 'Bebas Neue';
-  src: url('./fonts/Bebas_Neue/BebasNeue-Regular.otf'); format('opentype');
+  src: url('./fonts/Bebas_Neue/BebasNeue-Regular.otf') format('opentype');
   font-weight: 500;
 }
 
 @font-face {
   font-family: 'Bebas Neue';
-  src: url('./fonts/Bebas_Neue/BebasNeue-Bold.otf'); format('opentype');
+  src: url('./fonts/Bebas_Neue/BebasNeue-Bold.otf') format('opentype');
   font-weight: 700;
 }
 
 
 
-#app {
+.page {
   max-width: 1000px;
   margin: 0 auto;
 }
@@ -22,9 +22,32 @@
   font-family: 'Liberation Sans', sans-serif;
   font-size: 1.2em;
 }
+
+h1{
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 8em;
+  font-weight: 700;
+  text-align: center;
+  line-height: 0.8em;
+  color: white;
+  padding: 0.5em;
+}
+
+.header{
+ /*background: #FFC800; #FDBB2D
+ background-color: #FDBB2D;
+    background: #33759c;
+  background: radial-gradient(circle,rgba(35, 204, 207, 1) 0%, rgba(35, 181, 207, 1) 50%, rgba(51, 117, 156, 1) 100%);
+   background: #33759c;
+  background: linear-gradient(0deg,rgba(51, 117, 156, 1) 0%, rgba(35, 181, 207, 1) 50%, rgba(35, 204, 207, 1) 100%);
+  */
+  background-color: #F6724B;
+  margin-top: 1em;
+}
+
 h2 {
   font-family: 'Bebas Neue', sans-serif;
-  font-size: 2em;
+  font-size: 4em;
   font-weight: 700;
 }
 
