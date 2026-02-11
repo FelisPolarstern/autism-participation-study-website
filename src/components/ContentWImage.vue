@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import "@/assets/textcomponents.css"
 
 type Props = {
   lang: 'de' | 'eng',
@@ -25,6 +24,7 @@ const props = defineProps<Props>()
 </template>
 
 <style scoped>
-
-
+p{
+  margin: 0;
+}
 </style>

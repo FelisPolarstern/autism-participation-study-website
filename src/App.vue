@@ -1,7 +1,7 @@
 <script setup>
 import MainContent from "@/components/MainContent.vue";
 import ContentWImage from "@/components/ContentWImage.vue";
-import Header from "@/components/Header.vue";
+import Header from "@/components/Title.vue";
 </script>
 
 <template>

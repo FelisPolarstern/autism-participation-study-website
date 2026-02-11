@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import "@/assets/textcomponents.css"
 import bubbleicon from "@/assets/img/S4bubbleicons.png"
 
 type Props = {

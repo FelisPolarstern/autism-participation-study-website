@@ -14,9 +14,5 @@
 </template>
 
 <style scoped>
-.sidenav {
-  font-family: 'Bebas Neue', sans-serif;
-  font-weight: 700;
-  font-size: 2em;
-}
+
 </style>
