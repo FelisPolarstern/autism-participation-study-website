@@ -25,7 +25,7 @@ const img = images["section1"].src
         <ContentTextOnly :lang="lang" :head="currentTexts.section2.head" :text="currentTexts.section2.text" :imgSrc="img"/>
       </section>
       <section id="section3">
-        <DataSecurity :lang="lang" :head="currentTexts.section3.head" :text="currentTexts.section3.text" :imgSrc="img"/>
+        <ContentTextOnly :lang="lang" :head="currentTexts.section3.head" :text="currentTexts.section3.text" :imgSrc="img"/>
       </section>
       <section id="section4">
         <ContentTextOnly :lang="lang" :head="currentTexts.section4.head" :text="currentTexts.section4.text" :imgSrc="img"/>
@@ -43,14 +43,5 @@ const img = images["section1"].src
 </template>
 
 <style scoped>
-.page {
-  max-width: 1000px;
-  margin: 0 auto;
-  display: flex;
-  align-items: flex-start;
-}
 
-.content {
-  flex: 1;
-}
 </style>

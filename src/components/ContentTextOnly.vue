@@ -20,6 +20,7 @@ const props = defineProps<Props>()
 <style scoped>
 h2 {
   margin-bottom: 0;
+  margin-top: 0;
 }
 text {
   margin-top: 0;
