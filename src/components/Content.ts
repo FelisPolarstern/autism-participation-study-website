@@ -1,7 +1,7 @@
 export const texts = {
     de: {
         section1: {
-            head:  "Hallo!",
+            head:  "Hallo und Willkommen!",
             text:   "Wir sind ein Forschungsteam aus vier Personen und möchten die Rolle des Faktors Mensch in der Softwareentwicklung untersuchen. In dieser Studie möchten wir speziell über Autismus im Entwicklungsprozess forschen. Zu unserem Team gehören Prof. Dr. Dipl.-Psych Janet Siegmund, Prof. Dr. Sven Apel, Prof. Dr. Isabella Graßl und Nadja/ Felis Just. Ihre Perspektive ist dabei zentral. Durch den direkten Austausch möchten wir gemeinsam ein Bild der Arbeitssituation autistischer Entwickler*innen zeichnen, das auf den eigenen Stimmen beruht und als Grundlage für sinnvolle Veränderungen dienen kann. Dieser mehrstufige Prozess beginnt mit Interviews mit autistischen Entwickler*innen.",
         },
         section2: {

@@ -51,3 +51,7 @@ h2 {
   font-weight: 700;
 }
 
+html{
+  scroll-behavior: smooth;
+}
+

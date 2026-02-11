@@ -17,6 +17,7 @@ const props = defineProps<Props>()
         <img :src="props.imgSrc"/>-->
       </div>
       <div class="content-text">
+        <h2>{{ props.head }}</h2>
         <p class="text">{{ props.text }}</p>
       </div>
     </div>
