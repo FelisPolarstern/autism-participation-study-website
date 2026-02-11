@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <nav class="sidenav">
+  <nav>
     <a href ="#section1">Willkommen</a><br>
     <a href ="#section2">Inhalt und Ablauf</a><br>
     <a href ="#section3">Datenschutz</a><br>

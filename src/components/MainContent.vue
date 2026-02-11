@@ -14,8 +14,8 @@ const img = images["section1"].src
 
 <template>
   <div class="page">
-    <div class="side-nav">
-      <SideNav />
+    <div class="sidenav">
+      <SideNav/>
     </div>
     <div class="content">
       <section id="section1">
@@ -50,10 +50,6 @@ const img = images["section1"].src
   align-items: flex-start;
 }
 
-.side-nav {
-  flex: 0 0 20%;
-  margin: 1em;
-}
 .content {
   flex: 1;
 }

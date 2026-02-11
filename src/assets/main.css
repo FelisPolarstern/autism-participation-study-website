@@ -69,13 +69,11 @@ img{
   font-family: 'Bebas Neue', sans-serif;
   font-weight: 700;
   font-size: 2em;
-  /*
+  top: 1em;
   flex: 0 0 20%;
   margin: 1em;
   position: sticky;
   top: 1em;
   align-self: flex-start;
-   */
-  position: -webkit-sticky;
-  position: sticky;
+
 }
