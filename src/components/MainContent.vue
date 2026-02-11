@@ -53,6 +53,9 @@ const img = images["section1"].src
 .side-nav {
   flex: 0 0 20%;
   margin: 1em;
+  position: sticky;
+  top: 1em;
+  align-self: flex-start;
 }
 .content {
   flex: 1;
