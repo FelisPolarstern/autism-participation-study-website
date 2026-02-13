@@ -3,8 +3,7 @@
 type Props = {
   lang: 'de' | 'eng',
   head: string,
-  text: string,
-  imgSrc: string
+  text: string
 }
 const props = defineProps<Props>()
 </script>
@@ -14,7 +13,6 @@ const props = defineProps<Props>()
     <h2>{{ props.head }}</h2>
     <p class="text">{{ props.text }}</p>
     </div>
-  <!--</div>--->
 </template>
 
 <style scoped>

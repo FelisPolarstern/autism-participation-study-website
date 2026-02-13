@@ -26,6 +26,7 @@ h1{
   line-height: 0.8em;
   color: white;
   padding: 0.5em;
+  margin-top: 0rem;
 }
 
 .header{
@@ -37,7 +38,8 @@ h1{
   background: linear-gradient(0deg,rgba(51, 117, 156, 1) 0%, rgba(35, 181, 207, 1) 50%, rgba(35, 204, 207, 1) 100%);
   */
   background-color: #F6724B;
-  margin-top: 1em;
+  margin-top: 0rem;
+  margin-bottom: 0.5rem;
 }
 
 h2 {
