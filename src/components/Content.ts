@@ -109,7 +109,7 @@ export const menu = {
             text: "Data Usage",
         },
         section5: {
-            text: "Aids",
+            text: "Support",
         },
         section6: {
             text: "Contact"
