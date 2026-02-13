@@ -44,7 +44,7 @@ export const texts = {
             text: "We intend to publish the findings in scientific publications. In these works, we will only report on the insights from the interviews in an abstracted manner. Individual responses or personal data will not be published. We will also not publish the interview recordings and will delete them after transcription. Until publication, you have the right to withdraw your consent to the use of your data. In this case, we will delete your data immediately.",
         },
         section5: {
-            head: "Aids",
+            head: "Support",
             text: "It is important to us to make the interview as comfortable as possible for you. If there are specific techniques or aids you would like to use during the interview, for example, communication cards or a stress barometer, please let us know in advance.",
 
         },
