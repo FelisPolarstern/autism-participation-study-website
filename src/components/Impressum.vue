@@ -17,7 +17,7 @@ const titleText = computed(() =>
   <h3 v-html="titleText"></h3>
   <p class="text textImprint">
     Nadja Just <br>
-    Lohrstraße 31, 09113 Chemnitz <br>
+    Straße der Nationen 62, 09111 Chemnitz<br>
     0371 531-35852 <br>
     nadja.just@informatik.tu-chemnitz.de <br>
   </p>
